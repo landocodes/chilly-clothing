@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Space+Grotesk:wght@700&display=swap');
+
+
+.Home{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+    padding: 20px 20px 0px 20px;
+
+    img{
+        
+        height: 773.04px;
+    }
+
+    h1{
+        font-size: 130px;
+        font-family: 'Space Grotesk', sans-serif;
+        text-transform: uppercase;
+    }
+}
